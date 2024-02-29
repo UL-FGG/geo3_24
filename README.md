@@ -1,1 +1,3 @@
-# geo3_24
+# Geoinformatika III
+
+Študijsko let 2023/24
